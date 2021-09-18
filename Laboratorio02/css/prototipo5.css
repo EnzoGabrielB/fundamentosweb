@@ -1,0 +1,18 @@
+.contenedor {
+  background-color: black;
+}
+header {
+  background-color: red;
+}
+nav {
+  background-color: blue;
+}
+section {
+  background-color: yellow;
+}
+aside {
+  background-color: pink;
+}
+footer {
+  background-color: green;
+}

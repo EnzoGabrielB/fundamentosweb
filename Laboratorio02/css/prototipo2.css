@@ -1,0 +1,18 @@
+.contenedor {
+  background-color: black;
+}
+header {
+  background-color: #0011ff;
+}
+nav {
+  background-color: red;
+}
+section {
+  background-color: yellow;
+}
+.anuncio1 {
+  background-color: orange;
+}
+.anuncio2 {
+  background-color: paleturquoise;
+}
